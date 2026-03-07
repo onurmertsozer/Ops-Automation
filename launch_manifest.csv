@@ -1,0 +1,6 @@
+City,Partner,Compliance,Mapping,Fleet_Ready
+Tallinn,Bolt,True,True,True
+Helsinki,Alepa,True,False,True
+London,UberEats,False,True,False
+Stockholm,Wolt,True,True,False
+NewYork,DoorDash,True,True,True
