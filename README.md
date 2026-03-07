@@ -19,10 +19,4 @@ All data (city names, partners, and readiness metrics) in this repository is com
 
 When you run `main.py`, the system generates the following report:
 
-LAUNCH READINESS REPORT 
-✅ Tallinn: READY
-❌ Helsinki: MISSING: HD Mapping
-❌ London: MISSING: Legal/Compliance, Fleet Calibration
-✅ NewYork: READY
----------------------------------------------
-TOTAL CITIES READY FOR LAUNCH: 2
+
