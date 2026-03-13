@@ -1,5 +1,5 @@
 # Ops-Automation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/onurmertsozer/Ops-Automation/blob/main/launh_manifest.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/onurmertsozer/Ops-Automation/blob/main/launch_manifest.ipynb)
 
 Automated readiness assessment logic for regional robotics fleet deployment
 Ops Automation
